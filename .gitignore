@@ -137,3 +137,5 @@ CHANGELOG-*.html
 bin
 qemu-*-static
 rootfs.tar
+
+dist/
